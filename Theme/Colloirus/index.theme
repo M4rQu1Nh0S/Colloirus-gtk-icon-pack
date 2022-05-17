@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Colloirus
+Comment=A Colloid based theme with Papirus app icons.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Colloirus
+MetacityTheme=Colloirus
+IconTheme=Tela-circle
+CursorTheme=Colloirus-cursors
+ButtonLayout=close,minimize,maximize:menu
