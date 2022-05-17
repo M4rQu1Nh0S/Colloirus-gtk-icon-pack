@@ -1,7 +1,9 @@
+![Desktop and Menu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKOCgpoiwEWvCJdBp6N0rcGjAt0IwzX76C4CtWuIP1ETIxhKLViqD2OjPGYf7vMFGtbshUK_av3Q6fwX9GOIIs8ZJ3G1_EYuhZ4vm0rI1pdnn04Hmw3bGljgdJcORfeAyTaSPVLSb7EjzTR35zMUnCeczT7esWNGsaI2YfZsqNcGZuzWeYdtiHanLEqw/s1366/tela5.png)
+
 ## Contents
  * [Project Notes](#project-notes)
  * [Installation](#installation)
- * [Screenshots](#screenshots)
+ * [More Screenshots](#screenshots)
  * [Credits](#credits)
 
 ## Project Notes
@@ -39,8 +41,6 @@ Enjoy
 
 ## Screenshots
 ![Papirus Icons](https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png)
-
-![Desktop and Menu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKOCgpoiwEWvCJdBp6N0rcGjAt0IwzX76C4CtWuIP1ETIxhKLViqD2OjPGYf7vMFGtbshUK_av3Q6fwX9GOIIs8ZJ3G1_EYuhZ4vm0rI1pdnn04Hmw3bGljgdJcORfeAyTaSPVLSb7EjzTR35zMUnCeczT7esWNGsaI2YfZsqNcGZuzWeYdtiHanLEqw/s1366/tela5.png)
 
 ![File Manager list mode](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr_xD9fcsxAgolaV3meE0gPBtA4EOAouqZ3tx-nlSGiJkpj0txLGVyigFbfgBqRltWh3-R4q_mg8X4Ngk0K21He9xMOWYLxbFJ7WgdH6lmJtFCiRVzGD0u9Q9loW1Oh6oX2PzMPeN8TkG8VW6tVZptyO6LiMk8z5gB9Q0f4gVGqVrNWKHSULyI9TC4jg/s1366/tela1.png)
 
